@@ -1,0 +1,9 @@
+jupyterlite-core
+jupyterlite-pyodide-kernel
+jupyterlab
+requests
+altair
+pandas
+tqdm
+jinja2
+ipywidgets
